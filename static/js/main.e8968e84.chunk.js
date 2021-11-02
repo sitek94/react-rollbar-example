@@ -1,0 +1,2 @@
+(this["webpackJsonpreact-rollbar-example"]=this["webpackJsonpreact-rollbar-example"]||[]).push([[0],{10:function(e,t,r){"use strict";r.r(t);r(4);var c=r(1),n=r(3),i=r(0);var l=function(){return Object(i.jsx)("div",{children:Object(i.jsx)("h1",{children:"Simple TS Template"})})};n.render(Object(i.jsx)(c.StrictMode,{children:Object(i.jsx)(l,{})}),document.getElementById("root"))},4:function(e,t,r){}},[[10,1,2]]]);
+//# sourceMappingURL=main.e8968e84.chunk.js.map
