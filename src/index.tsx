@@ -4,10 +4,13 @@ import * as React from 'react';
 import * as ReactDOM from 'react-dom';
 
 import App from './App';
+import RollbarProvider from './rollbar';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <RollbarProvider>
+      <App />
+    </RollbarProvider>
   </React.StrictMode>,
   document.getElementById('root'),
 );
