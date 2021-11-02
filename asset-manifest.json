@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/react-rollbar-example/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/react-rollbar-example/static/js/main.e8968e84.chunk.js",
-    "main.js.map": "/react-rollbar-example/static/js/main.e8968e84.chunk.js.map",
+    "main.js": "/react-rollbar-example/static/js/main.b609d155.chunk.js",
+    "main.js.map": "/react-rollbar-example/static/js/main.b609d155.chunk.js.map",
     "runtime-main.js": "/react-rollbar-example/static/js/runtime-main.1dcefa29.js",
     "runtime-main.js.map": "/react-rollbar-example/static/js/runtime-main.1dcefa29.js.map",
-    "static/js/2.bdb168b8.chunk.js": "/react-rollbar-example/static/js/2.bdb168b8.chunk.js",
-    "static/js/2.bdb168b8.chunk.js.map": "/react-rollbar-example/static/js/2.bdb168b8.chunk.js.map",
+    "static/js/2.b64e3dec.chunk.js": "/react-rollbar-example/static/js/2.b64e3dec.chunk.js",
+    "static/js/2.b64e3dec.chunk.js.map": "/react-rollbar-example/static/js/2.b64e3dec.chunk.js.map",
     "index.html": "/react-rollbar-example/index.html",
     "static/css/main.6dea0f05.chunk.css.map": "/react-rollbar-example/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.bdb168b8.chunk.js.LICENSE.txt": "/react-rollbar-example/static/js/2.bdb168b8.chunk.js.LICENSE.txt"
+    "static/js/2.b64e3dec.chunk.js.LICENSE.txt": "/react-rollbar-example/static/js/2.b64e3dec.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.1dcefa29.js",
-    "static/js/2.bdb168b8.chunk.js",
+    "static/js/2.b64e3dec.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.e8968e84.chunk.js"
+    "static/js/main.b609d155.chunk.js"
   ]
 }
