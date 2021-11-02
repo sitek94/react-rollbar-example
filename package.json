@@ -1,7 +1,7 @@
 {
   "name": "react-rollbar-example",
-  "version": "0.1.0",
-  "private": true,
+  "author": "Maciek Sitkowski",
+  "homepage": "https://sitek94.github.io/react-rollbar-example",
   "scripts": {
     "build": "react-scripts build",
     "eject": "react-scripts eject",
