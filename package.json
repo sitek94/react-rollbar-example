@@ -4,6 +4,7 @@
   "homepage": "https://sitek94.github.io/react-rollbar-example",
   "scripts": {
     "build": "react-scripts build",
+    "build:local": "PUBLIC_URL=/ npm run build",
     "eject": "react-scripts eject",
     "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md}\"",
     "lint": "eslint --ext ts,tsx src/",
